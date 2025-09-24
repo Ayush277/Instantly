@@ -8,9 +8,9 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Instantly Team",
   "license": "ISC",
-  "description": "",
+  "description": "Instantly Server - Backend API for AI-powered content creation",
   "dependencies": {
     "@clerk/express": "^1.7.4",
     "@neondatabase/serverless": "^1.0.1",

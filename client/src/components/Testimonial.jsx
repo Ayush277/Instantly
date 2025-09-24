@@ -6,7 +6,7 @@ const Testimonial = () => {
             image: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=200",
             name: 'John Doe',
             title: 'Marketing Director, TechCorp',
-            content: 'ContentAI has revolutionized our content workflow. The quality of the articles is outstanding, and it saves us hours of work every week.',
+            content: 'Instantly has revolutionized our content workflow. The quality of the articles is outstanding, and it saves us hours of work every week.',
             rating: 4,
         },
         {

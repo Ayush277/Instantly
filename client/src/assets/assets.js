@@ -70,7 +70,7 @@ export const dummyTestimonialData = [
         image: assets.profile_img_1,
         name: 'John Doe',
         title: 'Marketing Director, TechCorp',
-        content: 'ContentAI has revolutionized our content workflow. The quality of the articles is outstanding, and it saves us hours of work every week.',
+        content: 'Instantly has revolutionized our content workflow. The quality of the articles is outstanding, and it saves us hours of work every week.',
         rating: 4,
     },
     {
