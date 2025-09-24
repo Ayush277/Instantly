@@ -13,14 +13,14 @@ const Testimonial = () => {
             image: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=200",
             name: 'Jane Smith',
             title: 'Content Creator, TechCorp',
-            content: 'ContentAI has made our content creation process effortless. The AI tools have helped us produce high-quality content faster than ever before.',
+            content: 'Instantly has made our content creation process effortless. The AI tools have helped us produce high-quality content faster than ever before.',
             rating: 5,
         },
         {
             image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=200&h=200&auto=format&fit=crop",
             name: 'David Lee',
             title: 'Content Writer, TechCorp',
-            content: 'ContentAI has transformed our content creation process. The AI tools have helped us produce high-quality content faster than ever before.',
+            content: 'Instantly has transformed our content creation process. The AI tools have helped us produce high-quality content faster than ever before.',
             rating: 4,
         },
     ]
