@@ -1,7 +1,6 @@
-import React from 'react'
-import { AiToolsData } from '../assets/assets'
-import { useNavigate } from 'react-router-dom'
 import { useUser } from '@clerk/clerk-react'
+import { useNavigate } from 'react-router-dom'
+import { AiToolsData } from '../assets/assets'
 
 const AiTools = () => {
 
